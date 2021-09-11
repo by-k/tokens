@@ -1,0 +1,11 @@
+{
+ "name": "STC",
+ "website": "http://www.zny.ink",
+ "description": "STC, 全球首家区块链AI智能交易系统，由全球顶尖级区块链技术团队独立自主研发，并获得了国际极客组织的协作支持.",
+ "explorer": "https://hecoinfo.com/token/0x7dc6aaabe75ca8e6a0b847d755635d01a911d794",
+ "type": "HRC-20",
+ "symbol": "STC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7dc6aaabe75ca8e6a0b847d755635d01a911d794"
+}
